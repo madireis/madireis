@@ -1,25 +1,10 @@
 <div align="center">
 
-![banner](banner.png)
+# Abdullah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Socially+noncompetitive.+Intellectually+ambitious.;Passive+player.+Solo+bolo+guy.;Computer+Engineering+%C3%97+Entrepreneur;I+build+things+that+scratch+my+own+itch.)](https://github.com/madireis)
 
-# Hey. I'm Abdullah. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
-### `Socially noncompetitive. Intellectually ambitious.`
-### `Passive player. Solo bolo guy.`
-
-<br>
-
-*Computer Engineering student by day.*
-*Entrepreneur & builder by obsession.*
-
-*I don't compete with people — I compete with what I built yesterday.*
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-madireis-181717?style=flat-square&logo=github)](https://github.com/madireis)
-[![Email](https://img.shields.io/badge/Email-abdullahmadi2005-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahmadi2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-madireis-181717?style=flat-square&logo=github)](https://github.com/madireis) [![Email](https://img.shields.io/badge/Mail-abdullahmadi2005-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahmadi2005@gmail.com) <img src="https://komarev.com/ghpvc/?username=madireis&color=58a6ff&style=flat-square&label=Views" />
 
 ---
 
@@ -229,14 +214,9 @@ I'm here because building things is the only thing that makes the noise stop.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=madireis&color=58a6ff&style=flat-square&label=Profile+Views" />
-
-<br><br>
-
 *"The best time to start was yesterday. The second best time is now — with `git init`."*
-
-<br>
 
 **Solo bolo. Always shipping. 🚀**
 
 </div>
+
