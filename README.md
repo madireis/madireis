@@ -61,12 +61,12 @@
 ### `05` // ACTIVITY & STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madireis&show_icons=true&theme=midnight-purple&bg_color=05070b&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&border_color=161b22" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=madireis&show_icons=true&theme=midnight-purple&bg_color=05070b&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&border_color=161b22" height="155" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madireis&theme=dark&background=05070b&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=8b949e&stroke=161b22" height="155" alt="GitHub Streak" />
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madireis&layout=compact&theme=midnight-purple&bg_color=05070b&title_color=00e5ff&text_color=c9d1d9&border_color=161b22&langs_count=6" height="145" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=madireis&layout=compact&theme=midnight-purple&bg_color=05070b&title_color=00e5ff&text_color=c9d1d9&border_color=161b22&langs_count=6" height="145" alt="Top Languages" />
 
   <br><br>
   <img src="assets/divider.svg" width="100%" alt=""/>
