@@ -3,9 +3,9 @@
   <br><br>
 
   <!-- Social & Link Badges -->
-  <a href="https://github.com/madireis"><img src="https://img.shields.io/badge/GITHUB-madireis-05070b?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=05070b" alt="GitHub"/></a>
-  <a href="https://www.instagram.com/abbood_madi/"><img src="https://img.shields.io/badge/INSTAGRAM-abbood__madi-05070b?style=for-the-badge&logo=instagram&logoColor=00e5ff&labelColor=05070b" alt="Instagram"/></a>
-  <a href="https://madireis.github.io/stl-to-3mf/"><img src="https://img.shields.io/badge/LIVE-StlTo3mf-05070b?style=for-the-badge&logo=rust&logoColor=00e5ff&labelColor=05070b" alt="Live Demo"/></a>
+  <a href="https://github.com/madireis"><img src="assets/badge-github.svg" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/abbood_madi/"><img src="assets/badge-instagram.svg" alt="Instagram"/></a>
+  <a href="https://madireis.github.io/stl-to-3mf/"><img src="assets/badge-live.svg" alt="Live Demo"/></a>
 
   <br><br>
   <img src="assets/divider.svg" width="100%" alt=""/>
